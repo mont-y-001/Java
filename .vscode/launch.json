@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Area",
+      "request": "launch",
+      "mainClass": "Abstraction.Area",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Practice.Sum",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "AreaMain",
+      "request": "launch",
+      "mainClass": "area.AreaMain",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
       "name": "Welcome",
       "request": "launch",
       "mainClass": "Welcome",

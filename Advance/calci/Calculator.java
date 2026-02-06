@@ -1,4 +1,4 @@
-package Advance.calci;
+package calci;
 class Sum {
     int num1, num2;
     void getSum(){
