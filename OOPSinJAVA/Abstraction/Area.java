@@ -36,7 +36,7 @@ public class Area {
             double result = 3.14*r*r;
             System.out.println("Area of circle" + result);
            };
-       }
+       };
        circle.getArea();
 
 
