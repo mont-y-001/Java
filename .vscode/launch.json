@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MainMethodRef",
+      "request": "launch",
+      "mainClass": "MainMethodRef",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
       "name": "Productlist",
       "request": "launch",
       "mainClass": "Productlist",
