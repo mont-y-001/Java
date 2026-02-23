@@ -1,0 +1,7 @@
+package lambdafunction;
+
+public class RecordMain {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
+}
