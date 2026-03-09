@@ -1,0 +1,39 @@
+package sorting;
+import java.util.*;
+public class InsertionSort{
+
+    public static void insertionSort(int[] arr) {
+
+        int n = arr.length;
+
+        // Start from second element
+        for (int i = 1; i < n; i++) {
+
+            int key = arr[i];   // element to insert
+            int j = i - 1;
+
+            // Shift elements greater than key
+            while (j >= 0 && arr[j] > key) {
+
+                arr[j + 1] = arr[j];
+                j--;
+            }
+
+            // Place key at correct position
+            arr[j + 1] = key;
+        }
+    }
+
+    public static void main(String[] args) {
+
+        int[] arr = {8, 3, 5, 2, 9};
+
+        insertionSort(arr);
+
+        System.out.print("Sorted Array: ");
+
+        for (int x : arr) {
+            System.out.print(x + " ");
+        }
+    }
+}
