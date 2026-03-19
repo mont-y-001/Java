@@ -3,6 +3,7 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "Student_filter",
       "request": "launch",
       "mainClass": "streamapi.Student_filter",
@@ -24,6 +25,8 @@
     },
     {
       "type": "java",
+=======
+>>>>>>> 4e7c55b35d31fcd9841c1d781d974f27d77a6e7e
       "name": "MainMethodRef",
       "request": "launch",
       "mainClass": "MainMethodRef",
