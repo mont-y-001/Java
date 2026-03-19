@@ -1,0 +1,101 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Student_filter",
+      "request": "launch",
+      "mainClass": "streamapi.Student_filter",
+      "projectName": "Java_d209beab"
+    },
+    {
+      "type": "java",
+      "name": "LinkedL",
+      "request": "launch",
+      "mainClass": "linkedList.LinkedL",
+      "projectName": "Java_d209beab"
+    },
+    {
+      "type": "java",
+      "name": "welcome",
+      "request": "launch",
+      "mainClass": "welcome",
+      "projectName": "Java_d209beab"
+    },
+    {
+      "type": "java",
+      "name": "MainMethodRef",
+      "request": "launch",
+      "mainClass": "MainMethodRef",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "Productlist",
+      "request": "launch",
+      "mainClass": "Productlist",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "Area",
+      "request": "launch",
+      "mainClass": "Abstraction.Area",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "Practice.Sum",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "AreaMain",
+      "request": "launch",
+      "mainClass": "area.AreaMain",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "Welcome",
+      "request": "launch",
+      "mainClass": "Welcome",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "Calculator",
+      "request": "launch",
+      "mainClass": "Advance.calci.Calculator",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "type": "java",
+      "name": "Welcome",
+      "request": "launch",
+      "mainClass": "Advance.Welcome",
+      "projectName": "JAVA_18e69345"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Mohit Yadav/Desktop/Code/Java",
+      "program": "c:/Users/Mohit Yadav/Desktop/Code/Java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
